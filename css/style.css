@@ -1,3 +1,11 @@
 * {
     font-family: "Century Schoolbook";
 }
+footer table {
+    border: none;
+}
+footer table p {
+    text-transform: uppercase;
+    font-size: 3em;
+    color: gray;
+}
